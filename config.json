@@ -1,0 +1,52 @@
+{
+    "token": "ODM3MDM2NjM3Mzg5MDYyMjA1.YImtHQ.ptSdxZonld5ucj9mGowOjlyWMF0",
+    "prefix": ">",
+    "bot_name": "moderation bot",
+    "main_color": "F1CDC5",
+    "bot_owners": ["Anim"],
+
+    "anti_bad_word_toggle": true,
+    "anti_bad_words": [  "nigger",  "nigga",  "pussy", "f ucker", "cunt", "dickhead","chink"],
+
+    "counter": false,
+    "counter_channel": "802635210919116881",
+    "counter_number_reach": 5,
+    
+    "blacklisted": ["Anim"],
+    "whitelisted": ["Anim"],
+    
+    "ignore_channel_toggle": true,
+    "ignore_channel_id": ["798174351865806918","CHANNEL 2 ID"],
+    
+    "anti_link_toggle": true,
+    "mute_role": "837174534498156545",
+
+    "command_cooldown_toggle": true,
+    "command_cooldown_time": "3",
+    
+    "xp_system_toggle": true,
+    "xp_system_rate": 10,
+    "xp_system_levelrate": 300,
+    
+    "suggest_system_toggle": true,
+    "suggest_system_channel": "",
+    
+    "report_system_toggle": true,
+    "report_system_channel": "837174262888267776",
+    
+    "mod_logs_toggle": true,
+    "mod_logs_channel": "837174182029557770",
+    "mod_logs_color": "0xbd1751",
+    
+    "anti_selfbot_toggle": true,
+    "anti_self_bot_message": "No self bots allowed!",
+    
+    "status_type": "PLAYING",
+    "status_url": "https://www.twitch.tv/rsynnn",
+    "bot_status": [">help | rOfficial on top 👑"],
+    "status_change_interval": "2",
+    
+    "welcome_message_enabled": true,
+    "welcome_message_server": "836795926974562346",
+    "welcome_message_channel": "836795926974562349"
+}
